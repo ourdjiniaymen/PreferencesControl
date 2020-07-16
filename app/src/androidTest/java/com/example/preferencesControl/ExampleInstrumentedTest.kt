@@ -1,4 +1,4 @@
-package com.example.tdm2_td1_exo1
+package com.example.preferencesControl
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

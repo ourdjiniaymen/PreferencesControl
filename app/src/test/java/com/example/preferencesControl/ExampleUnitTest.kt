@@ -1,4 +1,4 @@
-package com.example.tdm2_td1_exo1
+package com.example.preferencesControl
 
 import org.junit.Test
 

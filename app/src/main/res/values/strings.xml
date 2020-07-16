@@ -1,14 +1,12 @@
 <resources>
-    <string name="app_name">TDM2_TD1_EXO1</string>
+    <string name="app_name">PreferencesControl</string>
     <string name="activity_1">Activity 1</string>
     <string name="title_activity_acivity2">Acivity2</string>
-    <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
-
-    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="popup_menu">Popup menu</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="activity_2">activity2</string>
+    <string name="settings">Color Settings</string>
+    <string name="select">Select</string>
+    <string name="show">Show</string>
+    <string name="cancel">Cancel</string>
 </resources>
